@@ -1,0 +1,42 @@
+.controlos{
+	width: 90%;
+	height: 100px;
+	margin: 0 auto;
+	position: relative;
+	border: 1px solid black;
+}
+
+#btleft{ 
+	cursor:pointer;
+	background-color:red;
+	width:100px;
+	height: 100px;
+	float: left;
+	font-size: 100px;
+}
+
+#btright{
+	cursor:pointer;
+	background-color:blue;
+	width:100px;
+	height: 100px;
+	float: right;
+	font-size: 100px
+}
+
+
+.areadejogo{
+	width: 90%;
+	height: 400px;
+	margin: 0 auto;
+	position: relative;
+	border: 1px solid red;
+}
+
+#boneco{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 100px;
+top: 20px;
+}
